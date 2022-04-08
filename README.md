@@ -1,8 +1,10 @@
 Hello Anchor
 ---
 
-TODO: // Create blog post.
+You can read more on my blog post : [เขียน Solana Program ด้วย Anchor Framework](https://devahoy.com/blog/hello-anchor-solana)
 
+
+## Getting Started
 
 Install Anchor with `avm`
 
